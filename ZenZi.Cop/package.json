@@ -1,0 +1,20 @@
+{
+  "name": "codebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "fs": "0.0.1-security",
+    "mail": "^0.2.3",
+    "nodemailer": "^6.4.13",
+    "opusscript": "0.0.7",
+    "quick.db": "^7.1.2",
+    "ytdl-core": "^3.4.1"
+  }
+}
